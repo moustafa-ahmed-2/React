@@ -1,0 +1,4 @@
+{
+  "nav": { "home": "Home", "users": "Users", "about": "About" },
+  "users": { "title": "Users", "empty": "No users yet." }
+}
