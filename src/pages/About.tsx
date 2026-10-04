@@ -10,6 +10,16 @@ export default function About() {
           About
         </h1>
 
+  <h1 className="mb-4 text-4xl font-bold text-gray-900">
+          About23
+        </h1>
+
+
+
+  <h1 className="mb-4 text-4xl font-bold text-gray-900">
+          About100
+        </h1>
+
         <p className="mb-6 text-lg leading-8 text-gray-600">
           This project is a reference application built with React and
           TypeScript. It demonstrates how to organize a codebase by
